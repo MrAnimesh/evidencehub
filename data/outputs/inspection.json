@@ -1,0 +1,2526 @@
+{
+  "filename": "report.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 838,
+      "text_block_count": 18,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 01"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            313.95,
+            117.1
+          ],
+          "content": "01 · NATIVE TEXT\nResearch Brief: SolarGrid Q3"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            205.53,
+            137.95
+          ],
+          "content": "DIGITAL TEXT  /  SINGLE COLUMN"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 01  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            171.56,
+            112.2,
+            179.56
+          ],
+          "content": "BORN-DIGITAL"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            212.95,
+            209.84,
+            222.95
+          ],
+          "content": "Document ID: NBR-BRIEF-2026-017"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            233.35,
+            169.93,
+            242.85
+          ],
+          "content": "Prepared: 18 November 2026"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            278.73,
+            166.76,
+            292.73
+          ],
+          "content": "Executive summary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            308.14,
+            512.32,
+            319.14
+          ],
+          "content": "SolarGrid is a fictional energy platform operating across three regions. During Q3 2026, the team"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            325.14,
+            548.07,
+            336.14
+          ],
+          "content": "completed 42 installations and reported a customer retention rate of 93.4%. All figures in this evaluation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            342.14,
+            145.07,
+            353.14
+          ],
+          "content": "packet are synthetic."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            388.53,
+            175.53,
+            401.53
+          ],
+          "content": "Key operating findings"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            65.0,
+            416.47,
+            307.89,
+            427.07
+          ],
+          "content": "Installation count: 42 sites, compared with 37 in Q2."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            65.0,
+            443.47,
+            268.31,
+            454.07
+          ],
+          "content": "Median incident response time: 18 minutes."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            65.0,
+            470.47,
+            214.89,
+            481.07
+          ],
+          "content": "Customer retention rate: 93.4%."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            65.0,
+            497.47,
+            307.29,
+            508.07
+          ],
+          "content": "Primary operational risk: inverter supply constraints."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            667.95,
+            140.23,
+            677.95
+          ],
+          "content": "Interpretation rule"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            690.76,
+            525.37,
+            699.76
+          ],
+          "content": "For this benchmark, use the values in the source document. Do not infer facts from the name of the fictional company."
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 1048,
+      "text_block_count": 31,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 02"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            386.94,
+            117.1
+          ],
+          "content": "02 · READING ORDER\nIncident Review: Delayed Shipments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            212.76,
+            137.95
+          ],
+          "content": "TWO-COLUMN EDITORIAL LAYOUT"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 02  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            170.56,
+            158.78,
+            178.56
+          ],
+          "content": "COLUMN ORDER MATTERS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            206.95,
+            309.81,
+            216.95
+          ],
+          "content": "Read the left column from top to bottom, then the right column."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            251.15,
+            111.37,
+            262.14
+          ],
+          "content": "L1  Detection"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            276.27,
+            242.68,
+            285.87
+          ],
+          "content": "At 08:10 UTC, the monitoring service detected"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            291.27,
+            211.28,
+            300.87
+          ],
+          "content": "abnormal queue growth for route R-12."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            251.15,
+            393.49,
+            262.14
+          ],
+          "content": "R1  Investigation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            276.27,
+            539.22,
+            285.87
+          ],
+          "content": "The root cause was an expired client certificate on the"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            291.27,
+            378.49,
+            300.87
+          ],
+          "content": "carrier gateway."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            356.14,
+            93.21,
+            367.14
+          ],
+          "content": "L2  Triage"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            381.27,
+            270.37,
+            390.87
+          ],
+          "content": "Operations confirmed that carrier acknowledgements"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            396.27,
+            221.86,
+            405.87
+          ],
+          "content": "were delayed beyond the normal window."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            356.14,
+            375.97,
+            367.14
+          ],
+          "content": "R2  Recovery"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            381.27,
+            515.82,
+            390.87
+          ],
+          "content": "Certificate rotation completed at 09:05 UTC and"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            396.27,
+            435.67,
+            405.87
+          ],
+          "content": "message processing resumed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            461.14,
+            104.62,
+            472.14
+          ],
+          "content": "L3  Isolation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            486.27,
+            256.08,
+            495.87
+          ],
+          "content": "The team isolated route R-12 to prevent duplicate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            501.27,
+            126.32,
+            510.87
+          ],
+          "content": "shipment attempts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            461.14,
+            379.82,
+            472.14
+          ],
+          "content": "R3  Validation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            486.27,
+            527.37,
+            495.87
+          ],
+          "content": "A reconciliation check found 17 delayed orders and"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            501.27,
+            407.52,
+            510.87
+          ],
+          "content": "zero duplicate charges."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            566.15,
+            126.32,
+            577.15
+          ],
+          "content": "L4  Containment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            591.27,
+            268.65,
+            600.87
+          ],
+          "content": "A temporary backpressure limit reduced downstream"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            606.27,
+            135.55,
+            615.87
+          ],
+          "content": "retries by 62 percent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            566.15,
+            379.54,
+            577.15
+          ],
+          "content": "R4  Follow-up"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            591.27,
+            533.43,
+            600.87
+          ],
+          "content": "The team scheduled alerting for upcoming certificate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            311.0,
+            606.27,
+            364.53,
+            615.87
+          ],
+          "content": "expiry dates."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            743.67,
+            345.81,
+            752.77
+          ],
+          "content": "Correct narrative sequence: L1 -> L2 -> L3 -> L4 -> R1 -> R2 -> R3 -> R4"
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 744,
+      "text_block_count": 18,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 03"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            355.57,
+            117.1
+          ],
+          "content": "03 · TABLE FIDELITY\nRevenue Performance Statement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            250.88,
+            137.95
+          ],
+          "content": "TABLE STRUCTURE  /  MULTILEVEL HEADER"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 03  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            122.9,
+            181.56
+          ],
+          "content": "MERGED HEADER"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            205.95,
+            321.99,
+            215.95
+          ],
+          "content": "Northbridge consumer products | FY2026 | currency: INR crore"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            266.76,
+            450.07,
+            275.76
+          ],
+          "content": "Business line\nReported revenue\nQ3 vs Q2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            237.0,
+            298.0,
+            444.23,
+            306.7
+          ],
+          "content": "Q2\nQ3\nChange"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            330.95,
+            440.5,
+            340.95
+          ],
+          "content": "Product A\n150\n105\n-30.0%"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            370.95,
+            442.58,
+            380.95
+          ],
+          "content": "Product B\n90\n110\n+22.2%"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            410.95,
+            436.78,
+            420.95
+          ],
+          "content": "Product C\n75\n80\n+6.7%"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            450.95,
+            436.78,
+            460.95
+          ],
+          "content": "Service D\n120\n126\n+5.0%"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            490.95,
+            434.91,
+            500.95
+          ],
+          "content": "Total\n435\n421\n-3.2%"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            564.95,
+            134.3,
+            574.95
+          ],
+          "content": "Explanatory note"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            587.76,
+            526.41,
+            609.76
+          ],
+          "content": "Product A Q3 revenue decreased by INR 45 crore versus Q2; the relative decline is 30.0%. Management attributed the\ndecline primarily to supply-chain disruptions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            678.76,
+            89.6,
+            687.76
+          ],
+          "content": "Footnote 1"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            699.27,
+            526.59,
+            708.87
+          ],
+          "content": "Figures are synthetic. Percentages are rounded to one decimal place. The total row is calculated across all business"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            714.27,
+            66.42,
+            723.87
+          ],
+          "content": "lines."
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 395,
+      "text_block_count": 21,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 04"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            329.78,
+            117.1
+          ],
+          "content": "04 · CHART INTERPRETATION\nQuarterly Revenue Dashboard"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            199.22,
+            137.95
+          ],
+          "content": "VECTOR CHARTS  /  AXIS LABELS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 04  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            128.5,
+            181.56
+          ],
+          "content": "VECTOR GRAPHICS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            211.54,
+            317.31,
+            224.54
+          ],
+          "content": "Figure 4.1 — Product A revenue across FY2026"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            236.76,
+            108.54,
+            245.76
+          ],
+          "content": "Units: INR crore"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            72.78,
+            631.76,
+            78.0,
+            640.76
+          ],
+          "content": "0"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            67.56,
+            554.76,
+            78.0,
+            563.76
+          ],
+          "content": "50"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.34,
+            477.75,
+            78.0,
+            486.75
+          ],
+          "content": "100"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.34,
+            400.75,
+            78.0,
+            409.75
+          ],
+          "content": "150"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.34,
+            323.75,
+            78.0,
+            332.75
+          ],
+          "content": "200"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            147.0,
+            432.15,
+            164.4,
+            442.15
+          ],
+          "content": "120"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            148.0,
+            649.95,
+            161.88,
+            659.95
+          ],
+          "content": "Q1"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            250.0,
+            385.95,
+            267.4,
+            395.95
+          ],
+          "content": "150"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            251.0,
+            649.95,
+            264.88,
+            659.95
+          ],
+          "content": "Q2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            353.0,
+            455.25,
+            370.4,
+            465.25
+          ],
+          "content": "105"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            354.0,
+            649.95,
+            367.88,
+            659.95
+          ],
+          "content": "Q3"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            456.0,
+            409.05,
+            473.4,
+            419.05
+          ],
+          "content": "135"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            457.0,
+            649.95,
+            470.88,
+            659.95
+          ],
+          "content": "Q4"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            709.76,
+            384.9,
+            718.76
+          ],
+          "content": "Note: each bar is a vector-drawn graphical element. Numeric values are displayed as labels."
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 0,
+      "text_block_count": 0,
+      "image_block_count": 1,
+      "needs_visual_review": true,
+      "blocks": [
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            0.0,
+            595.28,
+            841.89
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 626,
+      "text_block_count": 11,
+      "image_block_count": 1,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 06"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            340.18,
+            117.1
+          ],
+          "content": "06 · HYBRID DOCUMENT\nProcurement Exception Review"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            217.64,
+            137.95
+          ],
+          "content": "MIXED CONTENT  /  DIGITAL + SCAN"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 06  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            174.56,
+            167.46,
+            182.56
+          ],
+          "content": "DIGITAL NARRATIVE + IMAGE"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            212.55,
+            534.85,
+            223.05
+          ],
+          "content": "During a procurement audit, an analyst inserted a photograph of a paper invoice into an otherwise digitally"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            229.55,
+            517.47,
+            240.05
+          ],
+          "content": "authored report. The invoice amount must be recovered from the image rather than assumed from this"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            246.55,
+            93.88,
+            257.05
+          ],
+          "content": "paragraph."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            297.54,
+            230.82,
+            310.54
+          ],
+          "content": "Embedded receipt from supplier"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            73.0,
+            378.0,
+            522.0,
+            672.0
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            708.95,
+            140.04,
+            718.95
+          ],
+          "content": "Audit requirement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            731.76,
+            509.12,
+            753.76
+          ],
+          "content": "A reliable hybrid-document extractor must combine the digitally represented narrative with OCR of the embedded\nreceipt and retain its location."
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 455,
+      "text_block_count": 15,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 07"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            373.12,
+            117.1
+          ],
+          "content": "07 · DIAGRAM EXTRACTION\nArchitecture: Evidence Query Flow"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            239.81,
+            137.95
+          ],
+          "content": "VECTOR FLOWCHART  /  RELATIONSHIPS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 07  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            171.56,
+            150.3,
+            179.56
+          ],
+          "content": "SPATIAL RELATIONSHIPS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            210.95,
+            539.93,
+            220.95
+          ],
+          "content": "The drawing shows a query path, including a branch for retrieval failure. Understanding the relationships requires"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            226.95,
+            187.92,
+            236.95
+          ],
+          "content": "more than recovering box labels."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            234.0,
+            299.95,
+            260.35,
+            309.95
+          ],
+          "content": "Client"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            234.0,
+            379.95,
+            311.19,
+            389.95
+          ],
+          "content": "FastAPI Gateway"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            234.0,
+            460.95,
+            275.45,
+            470.95
+          ],
+          "content": "Retriever"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            257.0,
+            558.95,
+            496.48,
+            574.77
+          ],
+          "content": "Hits found?\nNo-answer path"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            376.0,
+            545.56,
+            388.63,
+            553.56
+          ],
+          "content": "NO"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            234.0,
+            660.95,
+            274.64,
+            670.95
+          ],
+          "content": "Reranker"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            234.0,
+            740.95,
+            302.22,
+            750.95
+          ],
+          "content": "Gemini Answer"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            310.0,
+            620.56,
+            324.18,
+            628.56
+          ],
+          "content": "YES"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 821,
+      "text_block_count": 21,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 08"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            384.72,
+            117.1
+          ],
+          "content": "08 · EXACT MATCH\nOperations Runbook: Error BS-1042"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            240.25,
+            137.95
+          ],
+          "content": "TECHNICAL TEXT  /  IDENTIFIERS & CODE"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 08  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            149.29,
+            181.56
+          ],
+          "content": "LEXICAL SEARCH STRESS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            214.54,
+            190.01,
+            227.54
+          ],
+          "content": "Alert reference: BS-1042"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            243.55,
+            532.75,
+            254.05
+          ],
+          "content": "Error BS-1042 indicates that the BroadSwitch gateway rejected a stale provisioning nonce. The supported"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            259.55,
+            503.04,
+            270.05
+          ],
+          "content": "recovery is to refresh the session nonce and retry only after checking the request idempotency key."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            331.74,
+            274.08,
+            343.24
+          ],
+          "content": "Identifiers that must not be normalized away"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            57.0,
+            374.77,
+            150.79,
+            382.97
+          ],
+          "content": "Error code: BS-1042"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            57.0,
+            412.77,
+            140.92,
+            420.97
+          ],
+          "content": "SKU: ZX-901-ALPHA"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            57.0,
+            450.77,
+            175.47,
+            458.97
+          ],
+          "content": "Session key: sess_7f2c91"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            57.0,
+            488.77,
+            328.5,
+            496.97
+          ],
+          "content": "Object key: s3://demo-evidencehub/runbooks/bs-1042.json"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            525.74,
+            117.51,
+            537.24
+          ],
+          "content": "JSON payload"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            570.16,
+            67.42,
+            579.16
+          ],
+          "content": "{"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            589.16,
+            202.87,
+            598.16
+          ],
+          "content": "\"error_code\": \"BS-1042\","
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            608.16,
+            170.36,
+            617.16
+          ],
+          "content": "\"retryable\": true,"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            627.16,
+            229.96,
+            636.16
+          ],
+          "content": "\"backoff_seconds\": [1, 2, 4],"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            646.16,
+            235.38,
+            655.16
+          ],
+          "content": "\"idempotency_key\": \"idem-44f0\""
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            665.16,
+            67.42,
+            674.16
+          ],
+          "content": "}"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            729.35,
+            463.65,
+            738.85
+          ],
+          "content": "Do not interpret BS-1042 as BS-1043. Exact identifier retrieval should complement semantic search."
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 702,
+      "text_block_count": 19,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 09"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            278.54,
+            117.1
+          ],
+          "content": "09 · TABLE CONTINUATION\nRegional Energy Register"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            178.4,
+            137.95
+          ],
+          "content": "LONG TABLE  /  PART 1 OF 2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 09  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            172.56,
+            102.9,
+            180.56
+          ],
+          "content": "ROWS 01-10"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            209.79,
+            531.99,
+            219.99
+          ],
+          "content": "Operational readings for the first ten substations. The table continues onto the next page. Measurements are"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            225.79,
+            276.22,
+            235.99
+          ],
+          "content": "synthetic and expressed in megawatt-hours (MWh)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            303.24,
+            479.04,
+            311.64
+          ],
+          "content": "Station ID\nRegion\nEnergy MWh\nQC status"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            335.75,
+            463.28,
+            344.75
+          ],
+          "content": "ST-001\nNorth\n317\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            371.75,
+            463.28,
+            380.75
+          ],
+          "content": "ST-002\nWest\n334\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            407.75,
+            463.28,
+            416.75
+          ],
+          "content": "ST-003\nEast\n351\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            443.75,
+            463.28,
+            452.75
+          ],
+          "content": "ST-004\nSouth\n368\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            479.75,
+            463.28,
+            488.75
+          ],
+          "content": "ST-005\nNorth\n385\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            515.76,
+            463.28,
+            524.76
+          ],
+          "content": "ST-006\nWest\n402\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            551.76,
+            475.98,
+            560.76
+          ],
+          "content": "ST-007\nEast\n419\nREVIEW"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            587.76,
+            463.28,
+            596.76
+          ],
+          "content": "ST-008\nSouth\n436\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            623.76,
+            463.28,
+            632.76
+          ],
+          "content": "ST-009\nNorth\n453\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            659.76,
+            463.28,
+            668.76
+          ],
+          "content": "ST-010\nWest\n470\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            712.11,
+            470.54,
+            721.91
+          ],
+          "content": "Inter-page rule: these are rows 1–10 of the same logical table. The full dataset includes 20 stations."
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 691,
+      "text_block_count": 20,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 10"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            389.21,
+            117.1
+          ],
+          "content": "10 · TABLE CONTINUATION\nRegional Energy Register (continued)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            178.4,
+            137.95
+          ],
+          "content": "LONG TABLE  /  PART 2 OF 2"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 10  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            172.56,
+            102.9,
+            180.56
+          ],
+          "content": "ROWS 11-20"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            209.79,
+            536.33,
+            219.99
+          ],
+          "content": "Continuation of the Regional Energy Register from page 9. The repeated column headings are structural, not a"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            225.79,
+            91.35,
+            235.99
+          ],
+          "content": "new table."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            303.24,
+            479.04,
+            311.64
+          ],
+          "content": "Station ID\nRegion\nEnergy MWh\nQC status"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            335.75,
+            463.28,
+            344.75
+          ],
+          "content": "ST-011\nEast\n487\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            371.75,
+            463.28,
+            380.75
+          ],
+          "content": "ST-012\nSouth\n504\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            407.75,
+            463.28,
+            416.75
+          ],
+          "content": "ST-013\nNorth\n521\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            443.75,
+            463.28,
+            452.75
+          ],
+          "content": "ST-014\nWest\n538\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            479.75,
+            463.28,
+            488.75
+          ],
+          "content": "ST-015\nEast\n555\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            515.76,
+            475.98,
+            524.76
+          ],
+          "content": "ST-016\nSouth\n572\nREVIEW"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            551.76,
+            463.28,
+            560.76
+          ],
+          "content": "ST-017\nNorth\n589\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            587.76,
+            463.28,
+            596.76
+          ],
+          "content": "ST-018\nWest\n606\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            623.76,
+            463.28,
+            632.76
+          ],
+          "content": "ST-019\nEast\n623\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            53.0,
+            659.76,
+            463.28,
+            668.76
+          ],
+          "content": "ST-020\nSouth\n640\nPASS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            712.11,
+            511.25,
+            721.91
+          ],
+          "content": "Footnote: stations marked REVIEW require independent confirmation before inclusion in the final regulatory"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            728.11,
+            94.79,
+            737.91
+          ],
+          "content": "submission."
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 710,
+      "text_block_count": 15,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 11"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            359.5,
+            117.1
+          ],
+          "content": "11 · VERSION CONTROL\nPolicy Archive: Leave Entitlement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            231.78,
+            137.95
+          ],
+          "content": "CONFLICTING VERSIONS  /  FRESHNESS"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 11  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            129.78,
+            181.56
+          ],
+          "content": "ACTIVE VS RETIRED"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            238.15,
+            254.68,
+            249.15
+          ],
+          "content": "RETIRED POLICY  •  POL-LEAVE-2025"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            267.95,
+            253.99,
+            277.95
+          ],
+          "content": "Effective: 2025-01-01 through 2025-12-31"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            297.14,
+            500.16,
+            308.14
+          ],
+          "content": "Employees may carry forward up to 8 unused annual leave days. Temporary employees are"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            315.14,
+            191.46,
+            326.14
+          ],
+          "content": "excluded from this benefit."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            386.95,
+            215.18,
+            396.95
+          ],
+          "content": "Status: RETIRED - NOT CURRENT"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            480.14,
+            260.65,
+            491.14
+          ],
+          "content": "CURRENT POLICY  •  POL-LEAVE-2026"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            509.95,
+            196.07,
+            519.95
+          ],
+          "content": "Effective: 2026-01-01 onward"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            542.15,
+            500.16,
+            553.15
+          ],
+          "content": "Employees may carry forward up to 5 unused annual leave days. Temporary employees are"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            560.15,
+            506.35,
+            571.15
+          ],
+          "content": "excluded from this benefit. Carry-forward requests must be submitted before 31 December."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            62.0,
+            643.95,
+            288.39,
+            653.95
+          ],
+          "content": "Status: ACTIVE - USE FOR CURRENT QUESTIONS"
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 628,
+      "text_block_count": 13,
+      "image_block_count": 1,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 12"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            335.74,
+            117.1
+          ],
+          "content": "12 · CHARACTER FIDELITY\nInternationalization Test Notes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            225.65,
+            137.95
+          ],
+          "content": "UNICODE  /  MULTILINGUAL + RASTER"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 12  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            118.3,
+            181.56
+          ],
+          "content": "NON-ASCII TEXT"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            207.15,
+            279.86,
+            218.15
+          ],
+          "content": "Unicode characters in digitally represented text:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            47.0,
+            245.1,
+            278.18,
+            255.5
+          ],
+          "content": "Currency: INR ₹18,450; EUR €275; GBP £82."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            47.0,
+            284.1,
+            260.65,
+            294.5
+          ],
+          "content": "Temperature: 23.5 °C; efficiency: 98.6%."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            47.0,
+            323.1,
+            272.79,
+            333.5
+          ],
+          "content": "Terms: naïve, résumé, jalapeño, São Paulo."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            47.0,
+            362.1,
+            285.67,
+            372.5
+          ],
+          "content": "Mathematical symbols: α + β = γ; Δ = −30%."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            429.34,
+            293.48,
+            441.34
+          ],
+          "content": "Raster-only Hindi notice (requires OCR/vision)"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            45.0,
+            474.0,
+            548.0,
+            616.0
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            658.11,
+            540.31,
+            667.91
+          ],
+          "content": "The Hindi notice above is an image, not embedded searchable PDF text. A native text extractor can still recover the"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            674.11,
+            198.79,
+            683.91
+          ],
+          "content": "English text elsewhere on this page."
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 770,
+      "text_block_count": 21,
+      "image_block_count": 0,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 13"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            362.02,
+            117.1
+          ],
+          "content": "13 · PAGE FURNITURE\nResearch Methodology & Caveats"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            242.64,
+            137.95
+          ],
+          "content": "MARGINALIA  /  FOOTNOTES / ROTATION"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 13  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            173.56,
+            161.94,
+            181.56
+          ],
+          "content": "HEADERS AND FOOTNOTES"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            204.54,
+            117.87,
+            217.54
+          ],
+          "content": "Main finding"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            233.31,
+            363.34,
+            244.11
+          ],
+          "content": "Test group Alpha achieved 86.2% task completion under controlled"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            251.31,
+            397.75,
+            262.11
+          ],
+          "content": "conditions.¹ The result should not be generalized to other user populations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            269.31,
+            137.31,
+            280.11
+          ],
+          "content": "without replication."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            454.0,
+            227.76,
+            491.61,
+            236.76
+          ],
+          "content": "SIDEBAR"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            454.0,
+            250.16,
+            511.95,
+            258.66
+          ],
+          "content": "Pilot cohort: 48"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            454.0,
+            263.16,
+            499.76,
+            271.66
+          ],
+          "content": "participants."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            454.0,
+            276.16,
+            505.89,
+            284.66
+          ],
+          "content": "Measurement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            454.0,
+            289.16,
+            519.12,
+            297.66
+          ],
+          "content": "window: 14 days."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            392.34,
+            104.41,
+            404.34
+          ],
+          "content": "Limitations"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            420.55,
+            384.51,
+            431.05
+          ],
+          "content": "Participants were not randomly selected. Response time statistics exclude"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            437.55,
+            403.01,
+            448.05
+          ],
+          "content": "interrupted sessions. The colored box is a marginal note, not a continuation of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            454.55,
+            136.66,
+            465.05
+          ],
+          "content": "the main paragraph."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            618.35,
+            89.74,
+            627.85
+          ],
+          "content": "¹ Footnote"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            641.35,
+            441.51,
+            650.85
+          ],
+          "content": "Task completion refers to completion of all four required actions without moderator assistance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            569.03,
+            514.44,
+            578.03,
+            666.0
+          ],
+          "content": "ROTATED MARKER SIDE-NOTE-R47"
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 540,
+      "text_block_count": 9,
+      "image_block_count": 1,
+      "needs_visual_review": false,
+      "blocks": [
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            30.76,
+            550.28,
+            39.76
+          ],
+          "content": "EVIDENCEHUB\n/ SYNTHETIC DOCUMENT BENCHMARK\nPAGE 14"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            74.75,
+            339.71,
+            117.1
+          ],
+          "content": "14 · IMAGE DATA\nWarranty Claims: Visual Exhibit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            127.95,
+            199.34,
+            137.95
+          ],
+          "content": "RASTER CHART  /  MULTIMODAL"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            810.04,
+            550.31,
+            817.44
+          ],
+          "content": "NORTHBRIDGE RESEARCH  •  SYNTHETIC DATA\nEXTRACTION TEST 14  /  15"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            55.0,
+            172.56,
+            168.55,
+            180.56
+          ],
+          "content": "CHART EMBEDDED AS IMAGE"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            208.71,
+            536.54,
+            219.01
+          ],
+          "content": "The following chart was pasted into a digital report. Its data labels are embedded in the raster image and may"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            45.0,
+            225.71,
+            229.16,
+            236.01
+          ],
+          "content": "not appear in native PDF text extraction."
+        },
+        {
+          "type": "image",
+          "bbox": [
+            55.0,
+            347.0,
+            540.0,
+            689.0
+          ]
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            716.95,
+            154.71,
+            726.95
+          ],
+          "content": "Multimodal relevance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            58.0,
+            739.76,
+            531.61,
+            761.76
+          ],
+          "content": "A text-only index of this page may contain the chart title but miss numerical values and bar relationships. Visual retrieval\nor chart extraction is required."
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "width": 595.28,
+      "height": 841.89,
+      "text_characters": 0,
+      "text_block_count": 0,
+      "image_block_count": 0,
+      "needs_visual_review": true,
+      "blocks": []
+    }
+  ],
+  "page_count": 15
+}
